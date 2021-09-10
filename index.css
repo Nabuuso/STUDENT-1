@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(121, 219, 195);
+}
+h1{
+    color: dimgrey; 
+    font-family: sans-serif;
+}
+p{
+    font-style: italic; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: normal;
+}
