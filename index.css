@@ -16,6 +16,7 @@ p{
     border: 5px solid rgb(6, 6, 104);
   }
   img {
-    border-radius: 50%;
+    border-radius: 10%;
+    height: 50px;
   }
   
